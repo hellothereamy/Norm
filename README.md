@@ -7,9 +7,9 @@ Review Sentiment Aggregation Application
 Norm currently uses Yelp’s API in conjunction with MyAlchemy (Part of the IBM Watson Suite) API’s to detect the sentiment of words in user reviews. The sentiment allows us to detect which words are negative, positive, or neutral in a review. We then display the percentage of negative, positive, and neutral words as well as text snippets surrounding the word so that business owners can understand the context. We hope that business owners can use this application  as a quick way to understand where they can improve their business. 
 
 **Technologies Used**:
--Front End: Angular JS, Materialize.css, HTML/CSS 
--Back End: Node.js, Express
--APIs: Yelp and My Alchemy 
+* Front End: Angular JS, Materialize.css, HTML/CSS 
+* Back End: Node.js, Express
+* APIs: Yelp and My Alchemy 
 
 **How to use**: 
 Either copy and paste a Yelp URL or type the EXACT name of the business
